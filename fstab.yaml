@@ -1,3 +1,5 @@
 mountpoints:
   /:
     url: "https://author-p15404-e209286-cmstg.adobeaemcloud.com/bin/franklin.delivery/schaulinsan/xwalk-floh-feb8/main"
+    type: "markup"
+    suffix: ".html"
